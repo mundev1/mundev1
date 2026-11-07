@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://github.com/mundev1">Mundev</a> 👋
+# Hi there, I'm <a href="https://github.com/mundev1">Mundev</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Full-Stack+%26+Backend+Engineer;Java+%7C+Python+%7C+C%2B%2B+%7C+Spring+Boot;Building+scalable+systems+%26+ML+solutions)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 
 </div>
 
-### 🚀 About Me
+###  About Me
 
 ```yaml
 name: Mundev Anuj Tomar
@@ -28,15 +28,15 @@ interests: [Distributed Systems, Cloud Architectures, Machine Learning, Game Eng
 philosophy: "Writing clean, performant, and maintainable software from low-level systems to full-stack products."
 ```
 
-- 🔭 **Currently Building**: [MS Admission Assistant](https://github.com/mundev1/ms-admission-assistant) — a full-stack decision-matrix platform with Spring Boot & Python data scrapers.
-- ⚡ **Fun Project**: Built [Tetrix](https://github.com/mundev1/tetrix) — a complete Tetris game engine written from scratch in modern **C++**.
-- 🧠 **Exploring & Honing**: Advanced Distributed Systems, Spring Cloud, High-Concurrency APIs, and Cloud Infrastructure.
-- 🎯 **Algorithms & Problem Solving**: Actively practicing algorithms on LeetCode and maintaining [Leetcode-solutions](https://github.com/mundev1/Leetcode-solutions)
-- 💬 **Ask Me About**: Java, Spring Boot, Python, C++, REST APIs, System Architecture, and ML pipelines.
+-  **Currently Building**: [MS Admission Assistant](https://github.com/mundev1/ms-admission-assistant) — a full-stack decision-matrix platform with Spring Boot & Python data scrapers.
+-  **Fun Project**: Built [Tetrix](https://github.com/mundev1/tetrix) — a complete Tetris game engine written from scratch in modern **C++**.
+-  **Exploring & Honing**: Advanced Distributed Systems, Spring Cloud, High-Concurrency APIs, and Cloud Infrastructure.
+-  **Algorithms & Problem Solving**: Actively practicing algorithms on LeetCode and maintaining [Leetcode-solutions](https://github.com/mundev1/Leetcode-solutions)
+-  **Ask Me About**: Java, Spring Boot, Python, C++, REST APIs, System Architecture, and ML pipelines.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+###  Tech Stack & Arsenal
 
 <div align="center">
 
@@ -65,19 +65,19 @@ philosophy: "Writing clean, performant, and maintainable software from low-level
 
 ---
 
-### 🌟 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🎓 **MS Admission Matrix** | Intelligent compatibility engine evaluating applicants against global graduate admission criteria. | `Spring Boot 3` `Python` `REST` `Docker` | [View Code →](https://github.com/mundev1/ms-admission-assistant) |
-| 🎮 **Tetrix** | Feature-rich Tetris game engine implemented in modern C++ emphasizing game loop mechanics & clean architecture. | `C++` `Makefile` `Systems` | [View Code →](https://github.com/mundev1/tetrix) |
-| 🫁 **Chest Disease Prediction** | Deep learning and computer vision diagnostic system identifying pulmonary conditions. | `Python` `TensorFlow/PyTorch` `ML` | [View Code →](https://github.com/mundev1/chest-disease-prediction) |
-| 📺 **AnikenTV** | Purpose-built streaming application optimizing anime viewing experiences for Android TV. | `Android` `Mobile` `Streaming` | [View Code →](https://github.com/mundev1/anikentv) |
-| 📚 **DSA & LeetCode Mastery** | Curated collection of data structures, algorithms, and technical interview problem solutions. | `Java` `DSA` `Algorithms` | [View Code →](https://github.com/mundev1/DSA-kunal-Java) |
+|  **MS Admission Matrix** | Intelligent compatibility engine evaluating applicants against global graduate admission criteria. | `Spring Boot 3` `Python` `REST` `Docker` | [View Code →](https://github.com/mundev1/ms-admission-assistant) |
+|  **Tetrix** | Feature-rich Tetris game engine implemented in modern C++ emphasizing game loop mechanics & clean architecture. | `C++` `Makefile` `Systems` | [View Code →](https://github.com/mundev1/tetrix) |
+|  **Chest Disease Prediction** | Deep learning and computer vision diagnostic system identifying pulmonary conditions. | `Python` `TensorFlow/PyTorch` `ML` | [View Code →](https://github.com/mundev1/chest-disease-prediction) |
+|  **AnikenTV** | Purpose-built streaming application optimizing anime viewing experiences for Android TV. | `Android` `Mobile` `Streaming` | [View Code →](https://github.com/mundev1/anikentv) |
+|  **DSA & LeetCode Mastery** | Curated collection of data structures, algorithms, and technical interview problem solutions. | `Java` `DSA` `Algorithms` | [View Code →](https://github.com/mundev1/DSA-kunal-Java) |
 
 ---
 
-### 📊 GitHub Analytics & Activity
+###  GitHub Analytics & Activity
 
 <div align="center">
 
@@ -100,7 +100,7 @@ philosophy: "Writing clean, performant, and maintainable software from low-level
 
 ---
 
-### 🐍 Contribution Activity
+###  Contribution Activity
 
 <div align="center">
   <picture>
