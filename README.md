@@ -31,7 +31,7 @@ philosophy: "Writing clean, performant, and maintainable software from low-level
 - 🔭 **Currently Building**: [MS Admission Assistant](https://github.com/mundev1/ms-admission-assistant) — a full-stack decision-matrix platform with Spring Boot & Python data scrapers.
 - ⚡ **Fun Project**: Built [Tetrix](https://github.com/mundev1/tetrix) — a complete Tetris game engine written from scratch in modern **C++**.
 - 🧠 **Exploring & Honing**: Advanced Distributed Systems, Spring Cloud, High-Concurrency APIs, and Cloud Infrastructure.
-- 🎯 **Algorithms & Problem Solving**: Actively practicing algorithms on LeetCode and maintaining [Leetcode-solutions](https://github.com/mundev1/Leetcode-solutions) & [DSA-kunal-Java](https://github.com/mundev1/DSA-kunal-Java).
+- 🎯 **Algorithms & Problem Solving**: Actively practicing algorithms on LeetCode and maintaining [Leetcode-solutions](https://github.com/mundev1/Leetcode-solutions)
 - 💬 **Ask Me About**: Java, Spring Boot, Python, C++, REST APIs, System Architecture, and ML pipelines.
 
 ---
