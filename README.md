@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://github.com/mundev1">Mundev Anuj Tomar</a> 👋
+# Hi there, I'm <a href="https://github.com/mundev1">Mundev</a> 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Full-Stack+%26+Backend+Engineer;Java+%7C+Python+%7C+C%2B%2B+%7C+Spring+Boot;Building+scalable+systems+%26+ML+solutions)](https://git.io/typing-svg)
 
